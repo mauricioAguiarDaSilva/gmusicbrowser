@@ -13,16 +13,16 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 
 msgid " Context pane layout "
-msgstr "Esquema do painel de contexto"
+msgstr " Esquema do painel de contexto "
 
 msgid " Fields "
-msgstr "Campos"
+msgstr " Campos "
 
 msgid " Review "
-msgstr "Críticas"
+msgstr " Críticas "
 
 msgid " of {length}"
-msgstr "de {length}"
+msgstr " de {length}"
 
 msgid "# songs"
 msgstr "# músicas"
